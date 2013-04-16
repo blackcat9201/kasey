@@ -1,6 +1,5 @@
 <!DOCTYPE html> 
 <html xmlns="http://www.w3.org/1999/xhtml">
-	<meta http-equiv="Content-Type" content="text/html; charset=euc-kr">
     <head>
 
         <title>Sans | A Responsive, Single Page Portfolio Template</title>
@@ -195,30 +194,29 @@
                     <ul>
                         <!--Start About-->
                         <li class="nav-item">
-                            <a href="#"><h1>Sangwha</h1><span class="st-arrow">Open or Close</span></a>
+                            <a href="#"><h1>About</h1><span class="st-arrow">Open or Close</span></a>
                             <div id="about" class="st-content-container">
                                 <div class="st-content">
                                     <div class="fill">
-                                        <h2>About SangWha</h2>
+                                        <h2>A Little Bit About Sans</h2>
                                         <div class="one_third firstcols">
-																					<h3 style="font-family:'Malgun Gothic'"/> 생명을 <strong>사랑</strong>할 줄 아는 수의사가 되겠습니다. <br> <strong>학문</strong>을 할 줄 아는 과학자가 되겠습니다. <br>지식보다는 <strong>지혜</strong>를 찾고, 말보다는 <strong>행동</strong>을 하며, 받기보다는 <strong>주는</strong>사람이 되겠습니다. <br> </h3>
+                                            <h3>Etiam dictum nisi libero. Et cura bitur eleifend ligula ac mauri mollis dict um. Nam quis tortor id ipsum dict um imperdiet. Integer et scele risque metus non orci sollicitudin tincidunt eu eg et tortor. </h3>
                                         </div>
                                         <div class="two_third lastcols">
                                             <div class="one_half firstcols">
                                                 <ul> 
-																									<li><h4 class="icon-flag">Seoul National University Pre-veterinary Medicine</h4>
-																									<p>2011 - 2013  </p></li>
+                                                    <li><h4 class="icon-eye">Vision</h4><p>Proin vitae tellus libero, vitae pretium sem. Proin id diam eu dui facilisis sagittis. Nunc tincidunt, odio at luctus aliquam, nisi lectus interdum neque, vel consequat augue libero et nisi.  </p></li>
 
-                                                  <li class="margin-hack-top"><h4 class="icon-flag">Seoul Gwangnam highschool</h4>
-																									<p>2006 - 2009 </p></li>
+                                                    <li class="margin-hack-top"><h4 class="icon-talk-bubbles">Approach</h4>
+                                                        <p>Quisque tellus sem, hendrerit vitae suscipit sed, consequat non dui. Sed eget tortor ut neque scelerisque vehicula pretium eget libero odio at luctus aliquam. </p></li>
                                                 </ul>
                                             </div>
                                             <div class="one_half lastcols">
                                                 <ul> 
-                                                    <li><h4 class="icon-flag">Seoul National University Veterinary Medicine</h4>
-                                                        <p>2011 -</p></li>
-                                                    <li class="margin-hack-top"><h4 class="icon-flag">1990, Born in Michigan, Anarbor</h4>
-																												<p>1990</p></li>
+                                                    <li><h4 class="icon-flag">Motivation</h4>
+                                                        <p>Sed turpis enim, vehicula et accumsan eget, cursus vel risus. Quisque tellus sem, hendrerit vitae suscipit sed, consequat non dui. Sed eget tortor ut neque scelerisque vehicula.</p></li>
+                                                    <li class="margin-hack-top"><h4 class="icon-cards">Methodology</h4>
+                                                        <p>Eget tortor ut neque scelerisque vehicula pretium eget libero. Aliquam hendrerit tincidunt dictum. Pellen tesque sit amet sed turpis enim, vehicula vitae suscipit sed.</p></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -231,16 +229,17 @@
                         <!--End About-->
                         <!--Begin Portfolio-->
                         <li class="nav-item">
-                            <a href="#"><h1>Love</h1><span class="st-arrow">Open or Close</span></a>
+                            <a href="#"><h1>Portfolio</h1><span class="st-arrow">Open or Close</span></a>
                             <div id="portfolio" class="st-content-container">
                                 <div class="st-content">
                                     <div class="fill">
-                                        <h2>My Beloved Ones</h2>
+                                        <h2>Check out Some of Our Work</h2>
                                         <div class="group">
                                             <ul class="filter group">
                                                 <li class="current all"><a href="#">All</a></li>
-                                                <li class="identity"><a href="#">Family</a></li>
-                                                <li class="print"><a href="#">Friends</a></li>
+                                                <li class="identity"><a href="#">Identity</a></li>
+                                                <li class="print"><a href="#">Print</a></li>
+                                                <li class="test"><a href="#">Logo</a></li>
                                             </ul>
                                         </div>
                                         <!-- Portfolio Items -->
@@ -318,7 +317,7 @@
                         <!--End Portfolio-->
                         <!--Start Team-->
                         <li class="nav-item">
-                            <a href="#"><h1>Club</h1><span class="st-arrow">Open or Close</span></a>
+                            <a href="#"><h1>Team</h1><span class="st-arrow">Open or Close</span></a>
                             <div id="team" class="st-content-container">
                                 <div class="st-content">
                                     <div class="fill">
@@ -438,7 +437,7 @@
                         <!--Start Services-->
                         <li class="nav-item">
 
-                            <a href="#"><h1>Research</h1><span class="st-arrow">Open or Close</span></a>
+                            <a href="#"><h1>Services</h1><span class="st-arrow">Open or Close</span></a>
                             <div id="services" class="st-content-container">
                                 <div class="st-content">
                                     <div class="fill">
@@ -679,22 +678,58 @@
                                 </div>
                             </div>
                         </li>
-                        <!--End News--> 
+                        <!--End News-->
+                        <!--Start Contact-->
+                        <li class="nav-item">
+                            <a href="#"><h1>Contact</h1><span class="st-arrow">Open or Close</span></a>
+                            <div id="contact" class="st-content-container">
+                                <div class="st-content">
+                                    <div class="fill">
+                                        <h2>Get in touch with us</h2>
+                                        <div class="two_third firstcols">
+                                            <p id="contactResponse"></p>
+                                            <form method="post" action="#" id="contactform" class="contactform">
+                                                <span class="label">Name</span>
+                                                <input type="text" id="name" name="name" class="field text" />
+                                                <span class="label">Email</span>
+                                                <input type="text" id="email" name="email" class="field text" value="" />
+                                                <span class="label">Subject</span>
+                                                <input type="text" id="subject" name="subject" class="field textbig" value="" />
+                                                <span class="label">Message</span>
+                                                <textarea rows="25" cols="45" id="comments" name="comments" class="field"></textarea>
+                                                <input type="button" onClick="submitContactForm()" id="submitbtn" value="send it" class="field button" />
+                                            </form>
+                                        </div>
+                                        <div class="one_third lastcols">
+                                            <h4 class="with-icon">We're Available!</h4>
+                                            <p>We are currently taking on new projects. Blandit ut aliquet nisi feugiat. Vivamus consectetur hendrerit libero, vitae cursus odio elementum quis. </p>
+                                            <p>Curabitur tellus orci, condimentum non tincidunt nec, condimentum quis dui.</p>
+                                            <h4 class="with-icon grey-line-top">Contact Information</h4>
+                                            <ul>
+                                                <li class="icon-address"><p class="bold">434 Main Street, NY NY</p></li>
+                                                <li class="icon-phone"><p class="bold">Phone: +1 888 555 1234</p></li>
+                                                <li class="icon-email-small"><p class="bold">Email: info@yoktemplates.com</p></li>
+                                                <li class="icon-blog"><p class="bold">Blog: yoktemplates.com</p></li>
+                                            </ul>
+                                        </div>
+                                        <div class="clear-float"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <!--End Contact-->
                         <!--Start Twitter-->
                         <li class="nav-item">
                             <div id="follow">
-															<div class="follow-me-icon"><span class="follow-me-text">kasey.kim90@gmail.com</span></div>                       
+                                <div class="follow-me-icon"><span class="follow-me-text">follow us on twitter</span></div>                       
                             </div>
                         </li>
                         <!--End Twitter-->
                     </ul>
                 </div>
             </div>
-				</div>
-<!----------				<ul id="supersized" class="quality" style="visibility: visible;"><li class="slide-0" style="left: -1345px; visibility: visible;"><a target="_blank"><img src="images/slideshow_01.jpg" style="width: 1345px; left: 0px; top: -357px; height: 1008.75px;"></a></li><li class="slide-1 prevslide" style="visibility: visible; left: -1345px;"><a target="_blank"><img src="images/slideshow_02.jpg" style="width: 1345px; left: 0px; top: -357px; height: 1008.75px;"></a></li><li class="slide-2 activeslide" style="visibility: visible; left: 0px;"><a target="_blank"><img src="images/slideshow_03.jpg" style="width: 1345px; height: 1008.75px; left: 0px; top: -357px;"></a></li><li class="slide-3" style="visibility: visible; left: -1345px;"><a target="_blank"><img src="images/slideshow_04.jpg" style="width: 1345px; height: 1008.75px; left: 0px; top: -357px;"></a></li></ul>
-				<div class="pp_pic_holder light_square" style="top: 583px; left: 570px; display: block; width: 205px;"> 						<div class="ppt" style="opacity: 1; display: block; width: 165.23595505617976px;">&nbsp;</div> 						<div class="pp_top"> 							<div class="pp_left"></div> 							<div class="pp_middle"></div> 							<div class="pp_right"></div> 						</div> 						<div class="pp_content_container"> 							<div class="pp_left"> 							<div class="pp_right"> 								<div class="pp_content" style="height: 133px; width: 165px;"> 									<div class="pp_loaderIcon" style="display: none;"></div> 									<div class="pp_fade" style="display: block;"> 										<a href="#" class="pp_expand" title="Expand the image" style="display: inline;">Expand</a> 										<div class="pp_hoverContainer" style="height: 95px; width: 165px;"> 											<a class="pp_next" href="#">next</a> 											<a class="pp_previous" href="#">previous</a> 										</div> 										<div id="pp_full_res"><img id="fullResImage" src="images/portfolio/port_image_the_bg.jpg" style="height: 95px; width: 165px;"></div> 										<div class="pp_details" style="width: 165.23595505617976px;"> 											<div class="pp_nav" style=""><a href="#" class="pp_play">Play</a> 												<a href="#" class="pp_arrow_previous">Previous</a> 												<p class="currentTextHolder">1/3</p> 												<a href="#" class="pp_arrow_next">Next</a> 											</div> 											<p class="pp_description" style="display: block;"></p> 											<a class="pp_close" href="#">Close</a> 										</div> 									</div> 								</div> 							</div> 							</div> 						</div> 						<div class="pp_bottom"> 							<div class="pp_left"></div> 							<div class="pp_middle"></div> 							<div class="pp_right"></div> 						</div> 					</div>
-				<div class="pp_overlay" style="opacity: 0.8; height: 1630px; width: 1345px; display: block;"></div>
-				------>
+        </div>
     </body>
 </html>
+
 
